@@ -5,3 +5,4 @@
 [submodule "ShallowSubmodule2"]
 	path = ShallowSubmodule2
 	url = https://github.com/mynameisjohn/ShallowSubmodule2
+	shallow = true
