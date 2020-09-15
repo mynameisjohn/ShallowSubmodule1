@@ -2,3 +2,6 @@
 	path = pugixml
 	url = https://github.com/zeux/pugixml
 	shallow = true
+[submodule "ShallowSubmodule2"]
+	path = ShallowSubmodule2
+	url = https://github.com/mynameisjohn/ShallowSubmodule2
